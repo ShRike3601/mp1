@@ -1,0 +1,6 @@
+traces/raw/
+__pycache__/
+*.pyc
+.terraform/
+*.tfstate
+*.tfstate.*
