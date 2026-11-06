@@ -4,3 +4,7 @@ __pycache__/
 .terraform/
 *.tfstate
 *.tfstate.*
+*_key
+*_key.pub
+id_*
+*.pem
